@@ -1,0 +1,15 @@
+body
+{
+   background-color: darkgreen;
+}
+
+h1
+{
+    color: rgb(0, 0, 0);
+    background-color: cornsilk;
+}
+
+#show_sketch
+{
+    float: right;
+}
